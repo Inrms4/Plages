@@ -1,0 +1,34 @@
+p{
+	color:black;
+	text-align:center;
+	background-color:darkred;
+	front-style:italic;
+	front-family:𝖆;
+	front-size:300px;
+}
+
+body{
+	background-image: url("BBB.jfif");
+}
+
+h1{
+	color:white;
+	background-color:darkred;
+	text-align: center;
+	front-style:italic;
+	front size:300px;
+}
+
+h2{
+	color:white;
+	text-align:center;
+	background-color:darkred;
+}
+h3{
+	color:white;
+	text-align:center;
+}
+
+a{
+	color:white;
+}
